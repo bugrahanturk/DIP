@@ -1,2 +1,2 @@
 # DIP
- Digital Image Processing
+ Digital Image Processing Image Enhancement and Restoration Applications
